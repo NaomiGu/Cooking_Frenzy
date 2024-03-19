@@ -5,12 +5,12 @@ def print_restaurant():
 
     Returns:
     --------
-    None
+        None
 
     Notes:
     ------
-    This function is intended to provide a little visual representation of the player's
-    restaurant environment along with a lovely cat.
+        This function is intended to provide a little visual representation of the player's
+        restaurant environment along with a lovely cat.
     """
     
     print("       __________________________________________")
